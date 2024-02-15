@@ -1,0 +1,160 @@
+2024-02-15 12:42:45,083 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 12:42:45,088 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 12:42:45,092 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 12:42:45,443 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using msedgedriver 121.0.2277.112 (resolved driver for Edge 121)
+2024-02-15 12:42:45,463 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.edge.driver as C:\Users\mt_ja\.cache\selenium\msedgedriver\win64\121.0.2277.112\msedgedriver.exe
+2024-02-15 12:42:47,020 INFO [main] S.H.Hooks [Hooks.java:26] Nombre de escenario: 01 - Reproducir contenido
+2024-02-15 12:42:47,021 INFO [main] S.H.Hooks [Hooks.java:27] Tag: web
+2024-02-15 12:42:47,021 INFO [main] S.H.Hooks [Hooks.java:28] Configurando Scenario Context
+2024-02-15 12:42:47,048 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-15 12:42:49,816 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-15 12:42:51,357 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-15 12:42:52,817 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver
+2024-02-15 12:42:56,105 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 12:42:56,105 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 12:42:56,106 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 12:42:56,121 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using msedgedriver 121.0.2277.112 (resolved driver for Edge 121)
+2024-02-15 12:42:56,127 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.edge.driver as C:\Users\mt_ja\.cache\selenium\msedgedriver\win64\121.0.2277.112\msedgedriver.exe
+2024-02-15 12:42:56,935 INFO [main] S.H.Hooks [Hooks.java:26] Nombre de escenario: 02 - Verificar que el video esté reproduciendo.
+2024-02-15 12:42:56,935 INFO [main] S.H.Hooks [Hooks.java:27] Tag: web
+2024-02-15 12:42:56,936 INFO [main] S.H.Hooks [Hooks.java:28] Configurando Scenario Context
+2024-02-15 12:42:56,937 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-15 12:42:59,453 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-15 12:43:00,908 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-15 12:43:02,320 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:105] Validar modal de guardado con exito
+2024-02-15 12:43:24,661 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver
+2024-02-15 12:43:28,813 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 12:43:28,814 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 12:43:28,814 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 12:43:28,825 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using msedgedriver 121.0.2277.112 (resolved driver for Edge 121)
+2024-02-15 12:43:28,832 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.edge.driver as C:\Users\mt_ja\.cache\selenium\msedgedriver\win64\121.0.2277.112\msedgedriver.exe
+2024-02-15 12:43:29,686 INFO [main] S.H.Hooks [Hooks.java:26] Nombre de escenario: 03 - Cambiar el video a otro 2 video de la lista.
+2024-02-15 12:43:29,686 INFO [main] S.H.Hooks [Hooks.java:27] Tag: web
+2024-02-15 12:43:29,686 INFO [main] S.H.Hooks [Hooks.java:28] Configurando Scenario Context
+2024-02-15 12:43:29,687 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-15 12:43:32,116 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-15 12:43:33,538 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-15 12:43:34,958 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:105] Validar modal de guardado con exito
+2024-02-15 12:43:57,129 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:132] Validar modal de guardado con exito
+2024-02-15 12:43:58,270 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-15 12:43:59,596 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:105] Validar modal de guardado con exito
+2024-02-15 12:44:22,084 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver
+2024-02-15 12:44:26,217 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 12:44:26,217 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 12:44:26,218 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 12:44:26,228 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using msedgedriver 121.0.2277.112 (resolved driver for Edge 121)
+2024-02-15 12:44:26,233 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.edge.driver as C:\Users\mt_ja\.cache\selenium\msedgedriver\win64\121.0.2277.112\msedgedriver.exe
+2024-02-15 12:44:26,914 INFO [main] S.H.Hooks [Hooks.java:26] Nombre de escenario: 04 - Cambiar a todos los videos de la lista de recomendación
+2024-02-15 12:44:26,914 INFO [main] S.H.Hooks [Hooks.java:27] Tag: web
+2024-02-15 12:44:26,914 INFO [main] S.H.Hooks [Hooks.java:28] Configurando Scenario Context
+2024-02-15 12:44:26,918 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-15 12:44:29,237 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-15 12:44:30,675 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:389] 
+2024-02-15 12:45:03,721 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver
+2024-02-15 12:45:06,981 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 12:45:06,982 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 12:45:06,982 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 12:45:06,993 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using msedgedriver 121.0.2277.112 (resolved driver for Edge 121)
+2024-02-15 12:45:06,999 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.edge.driver as C:\Users\mt_ja\.cache\selenium\msedgedriver\win64\121.0.2277.112\msedgedriver.exe
+2024-02-15 12:45:07,820 INFO [main] S.H.Hooks [Hooks.java:26] Nombre de escenario: 05 - Adelantar el video "Big Buck Bunny" al minuto "8:21" y pausarlo
+2024-02-15 12:45:07,821 INFO [main] S.H.Hooks [Hooks.java:27] Tag: web
+2024-02-15 12:45:07,821 INFO [main] S.H.Hooks [Hooks.java:28] Configurando Scenario Context
+2024-02-15 12:45:07,822 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-15 12:45:10,094 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:158] 
+2024-02-15 12:45:11,100 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-15 12:45:12,546 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:184] 
+2024-02-15 12:45:13,730 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:208] 
+2024-02-15 12:45:15,067 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver
+2024-02-15 12:45:19,229 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 12:45:19,229 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 12:45:19,229 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 12:45:19,237 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using msedgedriver 121.0.2277.112 (resolved driver for Edge 121)
+2024-02-15 12:45:19,243 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.edge.driver as C:\Users\mt_ja\.cache\selenium\msedgedriver\win64\121.0.2277.112\msedgedriver.exe
+2024-02-15 12:45:19,949 INFO [main] S.H.Hooks [Hooks.java:26] Nombre de escenario: 06 - Silenciar el video "Disney's Oceans"
+2024-02-15 12:45:19,949 INFO [main] S.H.Hooks [Hooks.java:27] Tag: web
+2024-02-15 12:45:19,949 INFO [main] S.H.Hooks [Hooks.java:28] Configurando Scenario Context
+2024-02-15 12:45:19,950 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-15 12:45:22,458 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-15 12:45:23,943 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-15 12:45:25,427 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:234] 
+2024-02-15 12:45:26,604 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver
+2024-02-15 12:45:30,968 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 12:45:30,968 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 12:45:30,970 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 12:45:30,982 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using msedgedriver 121.0.2277.112 (resolved driver for Edge 121)
+2024-02-15 12:45:30,996 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.edge.driver as C:\Users\mt_ja\.cache\selenium\msedgedriver\win64\121.0.2277.112\msedgedriver.exe
+2024-02-15 12:45:32,082 INFO [main] S.H.Hooks [Hooks.java:26] Nombre de escenario: 07 - Silenciar el video "Tears of Steel" y luego subir el volumen al "75%"
+2024-02-15 12:45:32,083 INFO [main] S.H.Hooks [Hooks.java:27] Tag: web
+2024-02-15 12:45:32,083 INFO [main] S.H.Hooks [Hooks.java:28] Configurando Scenario Context
+2024-02-15 12:45:32,084 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-15 12:45:34,682 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:158] 
+2024-02-15 12:45:35,782 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-15 12:45:37,305 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-15 12:45:38,751 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:234] 
+2024-02-15 12:45:39,899 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:260] 
+2024-02-15 12:45:41,660 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver
+2024-02-15 12:45:45,271 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 12:45:45,272 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 12:45:45,277 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 12:45:45,287 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using msedgedriver 121.0.2277.112 (resolved driver for Edge 121)
+2024-02-15 12:45:45,293 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.edge.driver as C:\Users\mt_ja\.cache\selenium\msedgedriver\win64\121.0.2277.112\msedgedriver.exe
+2024-02-15 12:45:46,335 INFO [main] S.H.Hooks [Hooks.java:26] Nombre de escenario: 08 - Agrandar el video a pantalla Picture in Picture, luego cerrar la pantalla y terminar de reproducir el video en pantalla completa
+2024-02-15 12:45:46,335 INFO [main] S.H.Hooks [Hooks.java:27] Tag: web
+2024-02-15 12:45:46,335 INFO [main] S.H.Hooks [Hooks.java:28] Configurando Scenario Context
+2024-02-15 12:45:46,336 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-15 12:45:48,913 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-15 12:45:50,442 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-15 12:45:52,283 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:285] 
+2024-02-15 12:45:58,823 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:313] 
+2024-02-15 12:46:00,756 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:105] Validar modal de guardado con exito
+2024-02-15 12:46:23,208 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver
+2024-02-15 12:46:27,451 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 12:46:27,451 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 12:46:27,453 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 12:46:27,463 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using msedgedriver 121.0.2277.112 (resolved driver for Edge 121)
+2024-02-15 12:46:27,469 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.edge.driver as C:\Users\mt_ja\.cache\selenium\msedgedriver\win64\121.0.2277.112\msedgedriver.exe
+2024-02-15 12:46:28,969 INFO [main] S.H.Hooks [Hooks.java:26] Nombre de escenario: 9 - Hacer Replay al video Advanced Bip Bop
+2024-02-15 12:46:28,969 INFO [main] S.H.Hooks [Hooks.java:27] Tag: web
+2024-02-15 12:46:28,969 INFO [main] S.H.Hooks [Hooks.java:28] Configurando Scenario Context
+2024-02-15 12:46:28,970 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-15 12:46:31,559 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:158] 
+2024-02-15 12:46:32,817 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-15 12:46:35,273 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-15 12:46:37,000 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:105] Validar modal de guardado con exito
+2024-02-15 12:46:58,931 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:339] 
+2024-02-15 12:47:00,124 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:364] 
+2024-02-15 12:47:01,572 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-15 12:47:03,045 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:105] Validar modal de guardado con exito
+2024-02-15 12:47:25,768 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver
+2024-02-15 12:47:30,700 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 12:47:30,700 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 12:47:30,705 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 12:47:30,723 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using msedgedriver 121.0.2277.112 (resolved driver for Edge 121)
+2024-02-15 12:47:30,730 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.edge.driver as C:\Users\mt_ja\.cache\selenium\msedgedriver\win64\121.0.2277.112\msedgedriver.exe
+2024-02-15 12:47:36,090 INFO [main] S.H.Hooks [Hooks.java:26] Nombre de escenario: 10 - Modificar los subtitulos del video "Advanced Bip Bop"
+2024-02-15 12:47:36,090 INFO [main] S.H.Hooks [Hooks.java:27] Tag: web
+2024-02-15 12:47:36,090 INFO [main] S.H.Hooks [Hooks.java:28] Configurando Scenario Context
+2024-02-15 12:47:36,091 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-15 12:47:43,640 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:158] 
+2024-02-15 12:47:48,537 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-15 12:47:51,313 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-15 12:47:53,255 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:542] 
+2024-02-15 12:47:54,799 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:517] 
+2024-02-15 12:47:56,154 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:441] 
+2024-02-15 12:47:57,194 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:466] 
+2024-02-15 12:47:58,457 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:567] 
+2024-02-15 12:47:59,792 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:414] 
+2024-02-15 12:48:08,151 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:105] Validar modal de guardado con exito
+2024-02-15 12:48:32,248 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver
+2024-02-15 12:48:41,534 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 12:48:41,535 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 12:48:41,543 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 12:48:41,572 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using msedgedriver 121.0.2277.112 (resolved driver for Edge 121)
+2024-02-15 12:48:41,577 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.edge.driver as C:\Users\mt_ja\.cache\selenium\msedgedriver\win64\121.0.2277.112\msedgedriver.exe
+2024-02-15 12:48:56,281 INFO [main] S.H.Hooks [Hooks.java:26] Nombre de escenario: 11 - cambiar el audio del video "Advanced Bip Bop"
+2024-02-15 12:48:56,281 INFO [main] S.H.Hooks [Hooks.java:27] Tag: web
+2024-02-15 12:48:56,281 INFO [main] S.H.Hooks [Hooks.java:28] Configurando Scenario Context
+2024-02-15 12:48:56,284 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-15 12:49:23,202 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:158] 
+2024-02-15 12:49:33,252 INFO [main] S.V.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-15 12:49:37,936 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver

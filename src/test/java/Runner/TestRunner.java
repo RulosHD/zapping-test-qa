@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
         features = {
                 "src/test/resources/Feature"
                 },
-        tags = "@videojs",
+        tags = "@cambiartipoaudio",
         glue = {
                 "StepDefinition"
                 },
