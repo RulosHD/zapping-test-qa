@@ -1,0 +1,35 @@
+2023-08-08 14:28:08,483 INFO [main] U.Utilidades [Utilidades.java:73] Comprobando el entorno de ejecucion
+2023-08-08 14:28:08,490 INFO [main] U.Utilidades [Utilidades.java:74] Environment: DEVELOPMENT
+2023-08-08 14:28:08,491 INFO [main] U.Utilidades [Utilidades.java:91] Variables de entorno establecidas
+2023-08-08 14:28:09,033 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using msedgedriver 115.0.1901.200 (resolved driver for Edge 115)
+2023-08-08 14:28:09,067 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.edge.driver as C:\Users\FelipeSoublette\.cache\selenium\msedgedriver\win64\115.0.1901.200\msedgedriver.exe
+2023-08-08 14:28:11,135 INFO [main] S.H.Hooks [Hooks.java:31] Nombre de escenario: Inicar sesion en Registro de Horas Akzio
+2023-08-08 14:28:11,135 INFO [main] S.H.Hooks [Hooks.java:32] Tag: login
+2023-08-08 14:28:11,136 INFO [main] S.H.Hooks [Hooks.java:33] Configurando Scenario Context
+2023-08-08 14:28:11,174 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:39] Obtener la url desde las variables de entorno
+2023-08-08 14:28:11,183 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:42] Navegar a la pagina de login
+2023-08-08 14:28:15,174 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:67] Enviando los valores al campo de usuario
+2023-08-08 14:28:15,507 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:69] Enviando los valores al campo de contraseña
+2023-08-08 14:28:17,782 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:92] Click al boton Log In
+2023-08-08 14:28:18,023 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:112] Comprobando si la cuenta pertenece a DIEGO NUÑEZ
+2023-08-08 14:28:22,929 INFO [main] S.H.Hooks [Hooks.java:43] Cerrando Driver
+2023-08-08 14:28:26,221 INFO [main] U.Utilidades [Utilidades.java:73] Comprobando el entorno de ejecucion
+2023-08-08 14:28:26,221 INFO [main] U.Utilidades [Utilidades.java:74] Environment: DEVELOPMENT
+2023-08-08 14:28:26,222 INFO [main] U.Utilidades [Utilidades.java:91] Variables de entorno establecidas
+2023-08-08 14:28:26,237 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1238] Using msedgedriver 115.0.1901.200 (resolved driver for Edge 115)
+2023-08-08 14:28:26,245 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.edge.driver as C:\Users\FelipeSoublette\.cache\selenium\msedgedriver\win64\115.0.1901.200\msedgedriver.exe
+2023-08-08 14:28:27,085 INFO [main] S.H.Hooks [Hooks.java:31] Nombre de escenario: Flujo E2E Registro de hora
+2023-08-08 14:28:27,085 INFO [main] S.H.Hooks [Hooks.java:32] Tag: registro_hora
+2023-08-08 14:28:27,086 INFO [main] S.H.Hooks [Hooks.java:33] Configurando Scenario Context
+2023-08-08 14:28:27,088 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:39] Obtener la url desde las variables de entorno
+2023-08-08 14:28:27,089 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:42] Navegar a la pagina de login
+2023-08-08 14:28:30,921 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:134] Enviando los valores al campo de usuario
+2023-08-08 14:28:31,195 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:136] Enviando los valores al campo de contraseña
+2023-08-08 14:28:33,371 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:92] Click al boton Log In
+2023-08-08 14:28:33,591 INFO [main] S.R.RegistroDeHorasStepDefinition [RegistroDeHorasStepDefinition.java:32] Click al menu colapsable de Administrador
+2023-08-08 14:28:36,425 INFO [main] S.R.RegistroDeHorasStepDefinition [RegistroDeHorasStepDefinition.java:53] click al link de ingreso supervisor
+2023-08-08 14:28:40,319 INFO [main] S.R.RegistroDeHorasStepDefinition [RegistroDeHorasStepDefinition.java:75] click al boton de Cargar Hora
+2023-08-08 14:28:42,670 INFO [main] S.R.RegistroDeHorasStepDefinition [RegistroDeHorasStepDefinition.java:97] Rellenar formulario de Cargar Tarea
+2023-08-08 14:28:48,921 INFO [main] S.R.RegistroDeHorasStepDefinition [RegistroDeHorasStepDefinition.java:122] Click en Boton Guardar
+2023-08-08 14:28:49,118 INFO [main] S.R.RegistroDeHorasStepDefinition [RegistroDeHorasStepDefinition.java:142] Validar modal de guardado con exito
+2023-08-08 14:28:49,575 INFO [main] S.H.Hooks [Hooks.java:43] Cerrando Driver

@@ -1,0 +1,19 @@
+2024-02-14 18:21:32,397 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-14 18:21:32,398 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-14 18:21:32,399 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-14 18:21:32,551 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+2024-02-14 18:21:32,559 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as /Users/equipoqa/.cache/selenium/chromedriver/mac-arm64/121.0.6167.85/chromedriver
+2024-02-14 18:21:33,423 INFO [main] S.H.Hooks [Hooks.java:30] Nombre de escenario: 10 - Modificar los subtitulos del video "Advanced Bip Bop"
+2024-02-14 18:21:33,423 INFO [main] S.H.Hooks [Hooks.java:31] Tag: web
+2024-02-14 18:21:33,423 INFO [main] S.H.Hooks [Hooks.java:32] Configurando Scenario Context
+2024-02-14 18:21:33,436 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-14 18:21:36,158 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:157] 
+2024-02-14 18:21:37,220 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-14 18:21:38,892 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:80] Validar modal de guardado con exito
+2024-02-14 18:21:40,034 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:546] 
+2024-02-14 18:21:41,071 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:521] 
+2024-02-14 18:21:42,106 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:445] 
+2024-02-14 18:21:42,982 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:470] 
+2024-02-14 18:21:43,860 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:571] 
+2024-02-14 18:21:44,876 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:416] 
+2024-02-14 18:22:00,246 INFO [main] S.H.Hooks [Hooks.java:41] Cerrando Driver

@@ -1,0 +1,3 @@
+2023-08-08 13:30:37,354 INFO [main] U.Utilidades [Utilidades.java:73] Comprobando el entorno de ejecucion
+2023-08-08 13:30:37,359 INFO [main] U.Utilidades [Utilidades.java:74] Environment: null
+2023-08-08 13:30:37,371 INFO [main] S.H.Hooks [Hooks.java:41] Cerrando Driver

@@ -1,0 +1,163 @@
+2024-02-14 17:55:26,524 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-14 17:55:26,525 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-14 17:55:26,526 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-14 17:55:26,681 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+2024-02-14 17:55:26,688 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as /Users/equipoqa/.cache/selenium/chromedriver/mac-arm64/121.0.6167.85/chromedriver
+2024-02-14 17:55:27,519 INFO [main] S.H.Hooks [Hooks.java:30] Nombre de escenario: 01 - Reproducir contenido
+2024-02-14 17:55:27,519 INFO [main] S.H.Hooks [Hooks.java:31] Tag: web
+2024-02-14 17:55:27,520 INFO [main] S.H.Hooks [Hooks.java:32] Configurando Scenario Context
+2024-02-14 17:55:27,533 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-14 17:55:30,296 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-14 17:55:31,831 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-14 17:55:32,990 INFO [main] S.H.Hooks [Hooks.java:41] Cerrando Driver
+2024-02-14 17:55:36,124 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-14 17:55:36,124 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-14 17:55:36,124 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-14 17:55:36,134 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+2024-02-14 17:55:36,136 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as /Users/equipoqa/.cache/selenium/chromedriver/mac-arm64/121.0.6167.85/chromedriver
+2024-02-14 17:55:36,687 INFO [main] S.H.Hooks [Hooks.java:30] Nombre de escenario: 02 - Verificar que el video esté reproduciendo.
+2024-02-14 17:55:36,687 INFO [main] S.H.Hooks [Hooks.java:31] Tag: web
+2024-02-14 17:55:36,688 INFO [main] S.H.Hooks [Hooks.java:32] Configurando Scenario Context
+2024-02-14 17:55:36,688 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-14 17:55:39,012 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-14 17:55:40,435 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-14 17:55:41,584 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:104] Validar modal de guardado con exito
+2024-02-14 17:56:04,075 INFO [main] S.H.Hooks [Hooks.java:41] Cerrando Driver
+2024-02-14 17:56:07,195 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-14 17:56:07,195 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-14 17:56:07,196 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-14 17:56:07,202 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+2024-02-14 17:56:07,204 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as /Users/equipoqa/.cache/selenium/chromedriver/mac-arm64/121.0.6167.85/chromedriver
+2024-02-14 17:56:07,715 INFO [main] S.H.Hooks [Hooks.java:30] Nombre de escenario: 03 - Cambiar el video a otro 2 video de la lista.
+2024-02-14 17:56:07,720 INFO [main] S.H.Hooks [Hooks.java:31] Tag: web
+2024-02-14 17:56:07,723 INFO [main] S.H.Hooks [Hooks.java:32] Configurando Scenario Context
+2024-02-14 17:56:07,726 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-14 17:56:10,056 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-14 17:56:11,484 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-14 17:56:12,633 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:104] Validar modal de guardado con exito
+2024-02-14 17:56:35,064 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:130] Validar modal de guardado con exito
+2024-02-14 17:56:36,001 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-14 17:56:37,122 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:104] Validar modal de guardado con exito
+2024-02-14 17:56:48,498 INFO [main] S.H.Hooks [Hooks.java:41] Cerrando Driver
+2024-02-14 17:56:51,617 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-14 17:56:51,618 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-14 17:56:51,618 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-14 17:56:51,625 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+2024-02-14 17:56:51,628 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as /Users/equipoqa/.cache/selenium/chromedriver/mac-arm64/121.0.6167.85/chromedriver
+2024-02-14 17:56:52,208 INFO [main] S.H.Hooks [Hooks.java:30] Nombre de escenario: 04 - Cambiar a todos los videos de la lista de recomendación
+2024-02-14 17:56:52,210 INFO [main] S.H.Hooks [Hooks.java:31] Tag: web
+2024-02-14 17:56:52,210 INFO [main] S.H.Hooks [Hooks.java:32] Configurando Scenario Context
+2024-02-14 17:56:52,211 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-14 17:56:54,536 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-14 17:56:55,968 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:390] 
+2024-02-14 17:57:28,859 INFO [main] S.H.Hooks [Hooks.java:41] Cerrando Driver
+2024-02-14 17:57:31,969 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-14 17:57:31,970 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-14 17:57:31,970 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-14 17:57:31,976 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+2024-02-14 17:57:31,978 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as /Users/equipoqa/.cache/selenium/chromedriver/mac-arm64/121.0.6167.85/chromedriver
+2024-02-14 17:57:32,530 INFO [main] S.H.Hooks [Hooks.java:30] Nombre de escenario: 05 - Adelantar el video "Big Buck Bunny" al minuto "8:21" y pausarlo
+2024-02-14 17:57:32,532 INFO [main] S.H.Hooks [Hooks.java:31] Tag: web
+2024-02-14 17:57:32,532 INFO [main] S.H.Hooks [Hooks.java:32] Configurando Scenario Context
+2024-02-14 17:57:32,533 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-14 17:57:34,903 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:156] 
+2024-02-14 17:57:35,962 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-14 17:57:37,406 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:182] 
+2024-02-14 17:57:38,612 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:206] 
+2024-02-14 17:57:40,027 INFO [main] S.H.Hooks [Hooks.java:41] Cerrando Driver
+2024-02-14 17:57:43,163 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-14 17:57:43,163 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-14 17:57:43,164 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-14 17:57:43,169 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+2024-02-14 17:57:43,171 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as /Users/equipoqa/.cache/selenium/chromedriver/mac-arm64/121.0.6167.85/chromedriver
+2024-02-14 17:57:43,656 INFO [main] S.H.Hooks [Hooks.java:30] Nombre de escenario: 06 - Silenciar el video "Disney's Oceans"
+2024-02-14 17:57:43,658 INFO [main] S.H.Hooks [Hooks.java:31] Tag: web
+2024-02-14 17:57:43,658 INFO [main] S.H.Hooks [Hooks.java:32] Configurando Scenario Context
+2024-02-14 17:57:43,660 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-14 17:57:46,014 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-14 17:57:47,447 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-14 17:57:48,582 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:232] 
+2024-02-14 17:57:49,839 INFO [main] S.H.Hooks [Hooks.java:41] Cerrando Driver
+2024-02-14 17:57:52,956 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-14 17:57:52,957 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-14 17:57:52,957 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-14 17:57:52,962 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+2024-02-14 17:57:52,964 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as /Users/equipoqa/.cache/selenium/chromedriver/mac-arm64/121.0.6167.85/chromedriver
+2024-02-14 17:57:53,446 INFO [main] S.H.Hooks [Hooks.java:30] Nombre de escenario: 07 - Silenciar el video "Tears of Steel" y luego subir el volumen al "75%"
+2024-02-14 17:57:53,446 INFO [main] S.H.Hooks [Hooks.java:31] Tag: web
+2024-02-14 17:57:53,449 INFO [main] S.H.Hooks [Hooks.java:32] Configurando Scenario Context
+2024-02-14 17:57:53,450 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-14 17:57:55,725 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:156] 
+2024-02-14 17:57:56,781 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-14 17:57:58,179 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-14 17:57:59,330 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:232] 
+2024-02-14 17:58:00,511 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:258] 
+2024-02-14 17:58:02,232 INFO [main] S.H.Hooks [Hooks.java:41] Cerrando Driver
+2024-02-14 17:58:05,376 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-14 17:58:05,376 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-14 17:58:05,376 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-14 17:58:05,380 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+2024-02-14 17:58:05,382 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as /Users/equipoqa/.cache/selenium/chromedriver/mac-arm64/121.0.6167.85/chromedriver
+2024-02-14 17:58:05,868 INFO [main] S.H.Hooks [Hooks.java:30] Nombre de escenario: 08 - Agrandar el video a pantalla Picture in Picture, luego cerrar la pantalla y terminar de reproducir el video en pantalla completa
+2024-02-14 17:58:05,874 INFO [main] S.H.Hooks [Hooks.java:31] Tag: web
+2024-02-14 17:58:05,876 INFO [main] S.H.Hooks [Hooks.java:32] Configurando Scenario Context
+2024-02-14 17:58:05,880 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-14 17:58:08,201 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-14 17:58:09,611 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-14 17:58:10,763 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:283] 
+2024-02-14 17:58:17,134 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:314] 
+2024-02-14 17:58:18,417 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:104] Validar modal de guardado con exito
+2024-02-14 17:58:30,481 INFO [main] S.H.Hooks [Hooks.java:41] Cerrando Driver
+2024-02-14 17:58:33,602 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-14 17:58:33,603 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-14 17:58:33,605 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-14 17:58:33,613 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+2024-02-14 17:58:33,617 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as /Users/equipoqa/.cache/selenium/chromedriver/mac-arm64/121.0.6167.85/chromedriver
+2024-02-14 17:58:34,111 INFO [main] S.H.Hooks [Hooks.java:30] Nombre de escenario: 9 - Hacer Replay al video Advanced Bip Bop
+2024-02-14 17:58:34,112 INFO [main] S.H.Hooks [Hooks.java:31] Tag: web
+2024-02-14 17:58:34,112 INFO [main] S.H.Hooks [Hooks.java:32] Configurando Scenario Context
+2024-02-14 17:58:34,116 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-14 17:58:36,449 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:156] 
+2024-02-14 17:58:37,469 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-14 17:58:38,841 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-14 17:58:39,972 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:104] Validar modal de guardado con exito
+2024-02-14 17:59:01,353 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:340] 
+2024-02-14 17:59:02,476 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:365] 
+2024-02-14 17:59:03,763 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-14 17:59:04,926 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:104] Validar modal de guardado con exito
+2024-02-14 17:59:27,514 INFO [main] S.H.Hooks [Hooks.java:41] Cerrando Driver
+2024-02-14 17:59:30,630 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-14 17:59:30,630 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-14 17:59:30,631 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-14 17:59:30,636 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+2024-02-14 17:59:30,637 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as /Users/equipoqa/.cache/selenium/chromedriver/mac-arm64/121.0.6167.85/chromedriver
+2024-02-14 17:59:31,205 INFO [main] S.H.Hooks [Hooks.java:30] Nombre de escenario: 10 - Modificar los subtitulos del video "Advanced Bip Bop"
+2024-02-14 17:59:31,207 INFO [main] S.H.Hooks [Hooks.java:31] Tag: web
+2024-02-14 17:59:31,207 INFO [main] S.H.Hooks [Hooks.java:32] Configurando Scenario Context
+2024-02-14 17:59:31,210 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-14 17:59:33,502 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:156] 
+2024-02-14 17:59:34,517 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-14 17:59:35,878 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-14 17:59:37,005 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:543] 
+2024-02-14 17:59:38,041 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:518] 
+2024-02-14 17:59:39,068 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:442] 
+2024-02-14 17:59:39,944 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:467] 
+2024-02-14 17:59:40,817 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:568] 
+2024-02-14 17:59:41,840 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:415] 
+2024-02-14 17:59:48,006 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:104] Validar modal de guardado con exito
+2024-02-14 17:59:58,195 INFO [main] S.H.Hooks [Hooks.java:41] Cerrando Driver
+2024-02-14 18:00:01,303 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-14 18:00:01,303 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-14 18:00:01,303 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-14 18:00:01,308 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+2024-02-14 18:00:01,309 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as /Users/equipoqa/.cache/selenium/chromedriver/mac-arm64/121.0.6167.85/chromedriver
+2024-02-14 18:00:01,779 INFO [main] S.H.Hooks [Hooks.java:30] Nombre de escenario: 11 - cambiar el audio del video "Advanced Bip Bop"
+2024-02-14 18:00:01,781 INFO [main] S.H.Hooks [Hooks.java:31] Tag: web
+2024-02-14 18:00:01,781 INFO [main] S.H.Hooks [Hooks.java:32] Configurando Scenario Context
+2024-02-14 18:00:01,785 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-14 18:00:04,088 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:156] 
+2024-02-14 18:00:05,097 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-14 18:00:06,487 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-14 18:00:07,615 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:492] 
+2024-02-14 18:00:13,804 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:104] Validar modal de guardado con exito
+2024-02-14 18:00:23,951 INFO [main] S.H.Hooks [Hooks.java:41] Cerrando Driver

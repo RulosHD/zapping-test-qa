@@ -1,0 +1,37 @@
+2023-08-08 13:31:15,952 INFO [main] U.Utilidades [Utilidades.java:73] Comprobando el entorno de ejecucion
+2023-08-08 13:31:15,956 INFO [main] U.Utilidades [Utilidades.java:74] Environment: DEVELOPMENT
+2023-08-08 13:31:15,957 INFO [main] U.Utilidades [Utilidades.java:91] Variables de entorno establecidas
+2023-08-08 13:31:18,816 ERROR [main] i.g.b.w.o.HttpClient [HttpClient.java:176] Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-08 13:31:18,816 WARN [main] i.g.b.w.v.VersionDetector [VersionDetector.java:123] Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-08 13:31:19,551 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\FelipeSoublette\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-08 13:31:22,535 INFO [main] S.H.Hooks [Hooks.java:28] Nombre de escenario: Inicar sesion en Registro de Horas Akzio
+2023-08-08 13:31:22,536 INFO [main] S.H.Hooks [Hooks.java:29] Tag: login
+2023-08-08 13:31:22,536 INFO [main] S.H.Hooks [Hooks.java:30] Configurando Scenario Context
+2023-08-08 13:31:22,626 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:39] Obtener la url desde las variables de entorno
+2023-08-08 13:31:22,669 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:42] Navegar a la pagina de login
+2023-08-08 13:31:26,670 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:67] Enviando los valores al campo de usuario
+2023-08-08 13:31:26,969 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:69] Enviando los valores al campo de contraseña
+2023-08-08 13:31:29,156 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:92] Click al boton Log In
+2023-08-08 13:31:29,419 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:112] Comprobando si la cuenta pertenece a DIEGO NUÑEZ
+2023-08-08 13:31:43,822 INFO [main] S.H.Hooks [Hooks.java:41] Cerrando Driver
+2023-08-08 13:31:47,477 INFO [main] U.Utilidades [Utilidades.java:73] Comprobando el entorno de ejecucion
+2023-08-08 13:31:47,478 INFO [main] U.Utilidades [Utilidades.java:74] Environment: DEVELOPMENT
+2023-08-08 13:31:47,478 INFO [main] U.Utilidades [Utilidades.java:91] Variables de entorno establecidas
+2023-08-08 13:31:53,331 ERROR [main] i.g.b.w.o.HttpClient [HttpClient.java:176] Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-08 13:31:53,332 WARN [main] i.g.b.w.v.VersionDetector [VersionDetector.java:123] Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-08 13:31:53,376 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\FelipeSoublette\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-08 13:31:54,624 INFO [main] S.H.Hooks [Hooks.java:28] Nombre de escenario: Flujo E2E Registro de hora
+2023-08-08 13:31:54,625 INFO [main] S.H.Hooks [Hooks.java:29] Tag: registro_hora
+2023-08-08 13:31:54,625 INFO [main] S.H.Hooks [Hooks.java:30] Configurando Scenario Context
+2023-08-08 13:31:54,627 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:39] Obtener la url desde las variables de entorno
+2023-08-08 13:31:54,628 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:42] Navegar a la pagina de login
+2023-08-08 13:31:58,100 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:134] Enviando los valores al campo de usuario
+2023-08-08 13:31:58,375 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:136] Enviando los valores al campo de contraseña
+2023-08-08 13:32:00,433 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:92] Click al boton Log In
+2023-08-08 13:32:00,676 INFO [main] S.R.RegistroDeHorasStepDefinition [RegistroDeHorasStepDefinition.java:32] Click al menu colapsable de Administrador
+2023-08-08 13:32:03,607 INFO [main] S.R.RegistroDeHorasStepDefinition [RegistroDeHorasStepDefinition.java:53] click al link de ingreso supervisor
+2023-08-08 13:32:07,543 INFO [main] S.R.RegistroDeHorasStepDefinition [RegistroDeHorasStepDefinition.java:75] click al boton de Cargar Hora
+2023-08-08 13:32:09,997 INFO [main] S.R.RegistroDeHorasStepDefinition [RegistroDeHorasStepDefinition.java:97] Rellenar formulario de Cargar Tarea
+2023-08-08 13:32:16,513 INFO [main] S.R.RegistroDeHorasStepDefinition [RegistroDeHorasStepDefinition.java:122] Click en Boton Guardar
+2023-08-08 13:32:16,721 INFO [main] S.R.RegistroDeHorasStepDefinition [RegistroDeHorasStepDefinition.java:142] Validar modal de guardado con exito
+2023-08-08 13:32:27,477 INFO [main] S.H.Hooks [Hooks.java:41] Cerrando Driver

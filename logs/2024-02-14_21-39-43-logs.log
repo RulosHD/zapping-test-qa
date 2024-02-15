@@ -1,0 +1,18 @@
+2024-02-14 21:39:43,870 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-14 21:39:43,872 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-14 21:39:43,872 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-14 21:39:44,023 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+2024-02-14 21:39:44,033 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as /Users/equipoqa/.cache/selenium/chromedriver/mac-arm64/121.0.6167.85/chromedriver
+2024-02-14 21:39:44,933 INFO [main] S.H.Hooks [Hooks.java:30] Nombre de escenario: 9 - Hacer Replay al video Advanced Bip Bop
+2024-02-14 21:39:44,933 INFO [main] S.H.Hooks [Hooks.java:31] Tag: web
+2024-02-14 21:39:44,933 INFO [main] S.H.Hooks [Hooks.java:32] Configurando Scenario Context
+2024-02-14 21:39:44,946 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:29] Ingreso a portal VideoJS
+2024-02-14 21:39:47,584 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:158] 
+2024-02-14 21:39:48,642 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:54] Selecciono play al video desplegado
+2024-02-14 21:39:50,031 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-14 21:39:51,421 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:105] Validar modal de guardado con exito
+2024-02-14 21:40:13,113 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:342] 
+2024-02-14 21:40:14,234 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:367] 
+2024-02-14 21:40:15,540 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:79] Validar modal de guardado con exito
+2024-02-14 21:40:16,930 INFO [main] S.R.VideoJSDefinition [VideoJSDefinition.java:105] Validar modal de guardado con exito
+2024-02-14 21:40:39,454 INFO [main] S.H.Hooks [Hooks.java:41] Cerrando Driver

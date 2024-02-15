@@ -1,0 +1,7 @@
+2024-02-10 12:26:47,823 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-10 12:26:47,824 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-10 12:26:47,824 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-10 12:26:47,825 INFO [main] S.H.Hooks [Hooks.java:30] Nombre de escenario: 01 - Reproducir contenido
+2024-02-10 12:26:47,825 INFO [main] S.H.Hooks [Hooks.java:31] Tag: web
+2024-02-10 12:26:47,825 INFO [main] S.H.Hooks [Hooks.java:32] Configurando Scenario Context
+2024-02-10 12:26:47,832 INFO [main] S.H.Hooks [Hooks.java:41] Cerrando Driver

@@ -1,0 +1,16 @@
+2023-08-10 16:52:36,766 INFO [main] U.Utilidades [Utilidades.java:74] Comprobando el entorno de ejecucion
+2023-08-10 16:52:36,772 INFO [main] U.Utilidades [Utilidades.java:75] Environment: DEVELOPMENT
+2023-08-10 16:52:36,775 INFO [main] U.Utilidades [Utilidades.java:92] Variables de entorno establecidas
+2023-08-10 16:52:37,894 ERROR [main] i.g.b.w.o.HttpClient [HttpClient.java:176] Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115
+2023-08-10 16:52:37,896 WARN [main] i.g.b.w.v.VersionDetector [VersionDetector.java:123] Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115)
+2023-08-10 16:52:38,163 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1291] Exporting webdriver.chrome.driver as C:\Users\FelipeSoublette\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-08-10 16:52:40,453 INFO [main] S.H.Hooks [Hooks.java:31] Nombre de escenario: Inicar sesion en Registro de Horas Akzio
+2023-08-10 16:52:40,454 INFO [main] S.H.Hooks [Hooks.java:32] Tag: IK-1
+2023-08-10 16:52:40,454 INFO [main] S.H.Hooks [Hooks.java:33] Configurando Scenario Context
+2023-08-10 16:52:40,505 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:36] Obtener la url desde las variables de entorno
+2023-08-10 16:52:40,506 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:39] Navegar a la pagina de login
+2023-08-10 16:52:46,323 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:64] Enviando los valores al campo de usuario
+2023-08-10 16:52:46,665 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:66] Enviando los valores al campo de contraseña
+2023-08-10 16:52:48,679 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:89] Click al boton Log In
+2023-08-10 16:52:48,927 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:109] Comprobando si la cuenta pertenece a DIEGO NUÑEZ
+2023-08-10 16:52:52,985 INFO [main] S.H.Hooks [Hooks.java:42] Cerrando Driver

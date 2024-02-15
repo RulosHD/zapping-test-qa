@@ -1,0 +1,13 @@
+2023-10-24 12:15:06,321 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2023-10-24 12:15:06,329 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2023-10-24 12:15:06,335 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2023-10-24 12:15:14,118 INFO [main] S.H.Hooks [Hooks.java:38] Nombre de escenario: Inicar sesion en Registro de Horas Akzio
+2023-10-24 12:15:14,118 INFO [main] S.H.Hooks [Hooks.java:39] Tag: IK-1
+2023-10-24 12:15:14,118 INFO [main] S.H.Hooks [Hooks.java:40] Configurando Scenario Context
+2023-10-24 12:15:14,148 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:37] Obtener la url desde las variables de entorno
+2023-10-24 12:15:14,148 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:40] Navegar a la pagina de login
+2023-10-24 12:15:17,574 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:65] Enviando los valores al campo de usuario
+2023-10-24 12:15:19,218 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:67] Enviando los valores al campo de contraseña
+2023-10-24 12:15:26,512 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:90] Click al boton Log In
+2023-10-24 12:15:28,079 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:110] Comprobando si la cuenta pertenece a DIEGO NUÑEZ
+2023-10-24 12:15:34,931 INFO [main] S.H.Hooks [Hooks.java:49] Cerrando Driver

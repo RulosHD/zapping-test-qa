@@ -1,0 +1,55 @@
+2024-02-15 11:47:58,636 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 11:47:58,642 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 11:47:58,645 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 11:47:59,738 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as C:\Users\mt_ja\.cache\selenium\chromedriver\win64\121.0.6167.85\chromedriver.exe
+2024-02-15 11:48:00,625 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver
+2024-02-15 11:48:03,653 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 11:48:03,653 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 11:48:03,653 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 11:48:04,272 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as C:\Users\mt_ja\.cache\selenium\chromedriver\win64\121.0.6167.85\chromedriver.exe
+2024-02-15 11:48:04,400 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver
+2024-02-15 11:48:07,434 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 11:48:07,435 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 11:48:07,436 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 11:48:08,065 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as C:\Users\mt_ja\.cache\selenium\chromedriver\win64\121.0.6167.85\chromedriver.exe
+2024-02-15 11:48:08,193 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver
+2024-02-15 11:48:11,209 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 11:48:11,209 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 11:48:11,210 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 11:48:11,800 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as C:\Users\mt_ja\.cache\selenium\chromedriver\win64\121.0.6167.85\chromedriver.exe
+2024-02-15 11:48:11,922 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver
+2024-02-15 11:48:14,942 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 11:48:14,942 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 11:48:14,942 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 11:48:15,560 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as C:\Users\mt_ja\.cache\selenium\chromedriver\win64\121.0.6167.85\chromedriver.exe
+2024-02-15 11:48:15,682 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver
+2024-02-15 11:48:18,697 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 11:48:18,698 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 11:48:18,699 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 11:48:19,302 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as C:\Users\mt_ja\.cache\selenium\chromedriver\win64\121.0.6167.85\chromedriver.exe
+2024-02-15 11:48:19,425 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver
+2024-02-15 11:48:22,455 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 11:48:22,456 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 11:48:22,456 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 11:48:23,043 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as C:\Users\mt_ja\.cache\selenium\chromedriver\win64\121.0.6167.85\chromedriver.exe
+2024-02-15 11:48:23,188 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver
+2024-02-15 11:48:26,202 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 11:48:26,203 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 11:48:26,203 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 11:48:26,793 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as C:\Users\mt_ja\.cache\selenium\chromedriver\win64\121.0.6167.85\chromedriver.exe
+2024-02-15 11:48:26,941 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver
+2024-02-15 11:48:29,952 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 11:48:29,952 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 11:48:29,953 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 11:48:30,731 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as C:\Users\mt_ja\.cache\selenium\chromedriver\win64\121.0.6167.85\chromedriver.exe
+2024-02-15 11:48:30,861 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver
+2024-02-15 11:48:33,890 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 11:48:33,890 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 11:48:33,891 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 11:48:34,488 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as C:\Users\mt_ja\.cache\selenium\chromedriver\win64\121.0.6167.85\chromedriver.exe
+2024-02-15 11:48:34,611 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver
+2024-02-15 11:48:37,621 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-15 11:48:37,622 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-15 11:48:37,622 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-15 11:48:38,211 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as C:\Users\mt_ja\.cache\selenium\chromedriver\win64\121.0.6167.85\chromedriver.exe
+2024-02-15 11:48:38,327 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver

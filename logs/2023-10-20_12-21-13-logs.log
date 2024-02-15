@@ -1,0 +1,15 @@
+2023-10-20 12:21:13,694 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2023-10-20 12:21:13,701 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2023-10-20 12:21:13,705 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2023-10-20 12:21:14,535 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+2023-10-20 12:21:14,578 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as C:\Users\FelipeSoublette\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+2023-10-20 12:21:18,564 INFO [main] S.H.Hooks [Hooks.java:26] Nombre de escenario: Inicar sesion en Registro de Horas Akzio
+2023-10-20 12:21:18,566 INFO [main] S.H.Hooks [Hooks.java:27] Tag: IK-1
+2023-10-20 12:21:18,566 INFO [main] S.H.Hooks [Hooks.java:28] Configurando Scenario Context
+2023-10-20 12:21:18,628 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:36] Obtener la url desde las variables de entorno
+2023-10-20 12:21:18,629 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:39] Navegar a la pagina de login
+2023-10-20 12:21:23,991 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:64] Enviando los valores al campo de usuario
+2023-10-20 12:21:24,471 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:66] Enviando los valores al campo de contraseña
+2023-10-20 12:21:26,722 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:89] Click al boton Log In
+2023-10-20 12:21:27,006 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:109] Comprobando si la cuenta pertenece a DIEGO NUÑEZ
+2023-10-20 12:21:32,039 INFO [main] S.H.Hooks [Hooks.java:37] Cerrando Driver

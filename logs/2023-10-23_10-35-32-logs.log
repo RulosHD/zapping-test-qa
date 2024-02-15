@@ -1,0 +1,10 @@
+2023-10-23 10:35:32,934 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2023-10-23 10:35:32,942 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2023-10-23 10:35:32,947 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2023-10-23 10:35:42,349 INFO [main] S.H.Hooks [Hooks.java:36] Nombre de escenario: Inicar sesion en Registro de Horas Akzio
+2023-10-23 10:35:42,349 INFO [main] S.H.Hooks [Hooks.java:37] Tag: IK-1
+2023-10-23 10:35:42,350 INFO [main] S.H.Hooks [Hooks.java:38] Configurando Scenario Context
+2023-10-23 10:35:42,384 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:36] Obtener la url desde las variables de entorno
+2023-10-23 10:35:42,384 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:39] Navegar a la pagina de login
+2023-10-23 10:35:45,973 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:64] Enviando los valores al campo de usuario
+2023-10-23 10:35:46,102 INFO [main] S.H.Hooks [Hooks.java:47] Cerrando Driver

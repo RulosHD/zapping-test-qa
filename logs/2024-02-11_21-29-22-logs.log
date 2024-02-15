@@ -1,0 +1,8 @@
+2024-02-11 21:29:22,039 INFO [main] U.Utilidades [Utilidades.java:68] Comprobando el entorno de ejecucion
+2024-02-11 21:29:22,040 INFO [main] U.Utilidades [Utilidades.java:69] Environment: DEVELOPMENT
+2024-02-11 21:29:22,041 INFO [main] U.Utilidades [Utilidades.java:86] Variables de entorno establecidas
+2024-02-11 21:29:22,477 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using chromedriver 121.0.6167.85 (resolved driver for Chrome 121)
+2024-02-11 21:29:22,679 INFO [main] i.g.b.w.o.Downloader [Downloader.java:132] Downloading https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/121.0.6167.85/mac-arm64/chromedriver-mac-arm64.zip
+2024-02-11 21:29:23,110 INFO [main] i.g.b.w.o.Downloader [Downloader.java:193] Extracting driver from compressed file chromedriver-mac-arm64.zip
+2024-02-11 21:29:23,195 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as /Users/equipoqa/.cache/selenium/chromedriver/mac-arm64/121.0.6167.85/chromedriver
+2024-02-11 21:29:23,202 INFO [main] S.H.Hooks [Hooks.java:41] Cerrando Driver

@@ -1,0 +1,17 @@
+2023-10-18 11:00:13,010 INFO [main] U.Utilidades [Utilidades.java:74] Comprobando el entorno de ejecucion
+2023-10-18 11:00:13,015 INFO [main] U.Utilidades [Utilidades.java:75] Environment: DEVELOPMENT
+2023-10-18 11:00:13,017 INFO [main] U.Utilidades [Utilidades.java:92] Variables de entorno establecidas
+2023-10-18 11:00:14,093 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1217] Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+2023-10-18 11:00:14,161 INFO [main] i.g.b.w.o.Downloader [Downloader.java:132] Downloading https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/118.0.5993.70/win64/chromedriver-win64.zip
+2023-10-18 11:00:14,714 INFO [main] i.g.b.w.o.Downloader [Downloader.java:193] Extracting driver from compressed file chromedriver-win64.zip
+2023-10-18 11:00:14,944 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1270] Exporting webdriver.chrome.driver as C:\Users\FelipeSoublette\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+2023-10-18 11:00:18,905 INFO [main] S.H.Hooks [Hooks.java:30] Nombre de escenario: Inicar sesion en Registro de Horas Akzio
+2023-10-18 11:00:18,906 INFO [main] S.H.Hooks [Hooks.java:31] Tag: IK-1
+2023-10-18 11:00:18,906 INFO [main] S.H.Hooks [Hooks.java:32] Configurando Scenario Context
+2023-10-18 11:00:18,959 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:36] Obtener la url desde las variables de entorno
+2023-10-18 11:00:18,959 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:39] Navegar a la pagina de login
+2023-10-18 11:00:23,269 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:64] Enviando los valores al campo de usuario
+2023-10-18 11:00:23,590 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:66] Enviando los valores al campo de contraseña
+2023-10-18 11:00:25,603 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:89] Click al boton Log In
+2023-10-18 11:00:25,853 INFO [main] S.A.AutenticacionStepDefinition [AutenticacionStepDefinition.java:109] Comprobando si la cuenta pertenece a DIEGO NUÑEZ
+2023-10-18 11:00:30,793 INFO [main] S.H.Hooks [Hooks.java:41] Cerrando Driver
